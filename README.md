@@ -15,7 +15,7 @@ fb303 depends on
 And all transitive dependencies of the above.
 
 ## Using fb303 for your service
-
+Raghuram Kondaveeti has changes these 
 You can have your own thrift service interface extend `fb303_core.BaseService` to
 utilize the fb303 API. Some of the primary interfaces defined by fb303 are:
 * `getStatus()` - Query the state of a running service.
@@ -47,7 +47,7 @@ fb303 ⇒ FacebookBase303.
 See the CONTRIBUTING file for how to help out.
 
 ## License
-
+let him allow
 fb303 is licensed under Apache 2.0 as found in the LICENSE file.
 
 ## Note

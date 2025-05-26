@@ -1,3 +1,0 @@
-[workspace]
-members = ["thrift", "thrift/clients", "thrift/mocks", "thrift/services"]
-resolver = "2"
